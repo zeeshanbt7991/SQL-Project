@@ -1,1 +1,3 @@
 # SQL-Project
+
+In this project, I used MySQL to study how customers shop on an e-commerce website. I worked with five tables: customers, products, orders, order items, and payments. I wrote SQL queries to find useful insights like which customers buy the most, which products sell more, how many orders were placed, and how people made payments. I used JOIN, GROUP BY, subqueries, and window functions to answer different business questions. This project helped me understand how to read data, make reports, and find trends that can help improve the business. It was a good hands-on data analysis experience using SQL.
